@@ -65,15 +65,3 @@ h1 {
 img {
     width: 20%;
 }
-
-.filho:nth-child(1) {
-         /* esquerda */
-}
-
-.filho:nth-child(2) {
-     /* direita */
-}
-
-.filho:nth-child(3) {
-     /* centro */
-}
